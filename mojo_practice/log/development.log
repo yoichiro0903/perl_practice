@@ -1,0 +1,577 @@
+[Wed May  6 22:17:57 2015] [debug] Reading configuration file "/Users/yoichiro/Dropbox/SugarSync/perlPractice/mojo_practice/myApp.conf"
+[Wed May  6 22:17:57 2015] [info] Starting Application
+[Wed May  6 22:18:01 2015] [debug] Your secret passphrase needs to be changed
+[Wed May  6 22:18:01 2015] [debug] GET "/"
+[Wed May  6 22:18:01 2015] [debug] Routing to a callback
+[Wed May  6 22:18:01 2015] [info] Access information
+[Wed May  6 22:18:01 2015] [debug] Rendering template "info.html.ep"
+[Wed May  6 22:18:01 2015] [debug] 200 OK (0.004899s, 204.123/s)
+[Wed May  6 22:18:01 2015] [debug] GET "/css/common"
+[Wed May  6 22:18:01 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:18:01 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:18:01 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:18:01 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:18:02 2015] [debug] 404 Not Found (0.041965s, 23.829/s)
+[Wed May  6 22:18:13 2015] [debug] GET "/some"
+[Wed May  6 22:18:13 2015] [debug] Routing to a callback
+[Wed May  6 22:18:13 2015] [debug] 302 Found (0.001270s, 787.402/s)
+[Wed May  6 22:18:13 2015] [debug] GET "/othrer"
+[Wed May  6 22:18:13 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:18:13 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:18:13 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:18:13 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:18:13 2015] [debug] 404 Not Found (0.009139s, 109.421/s)
+[Wed May  6 22:19:18 2015] [debug] Reading configuration file "/Users/yoichiro/Dropbox/SugarSync/perlPractice/mojo_practice/myApp.conf"
+[Wed May  6 22:19:18 2015] [info] Starting Application
+[Wed May  6 22:19:22 2015] [debug] Your secret passphrase needs to be changed
+[Wed May  6 22:19:22 2015] [debug] GET "/"
+[Wed May  6 22:19:22 2015] [debug] Routing to a callback
+[Wed May  6 22:19:22 2015] [info] Access information
+[Wed May  6 22:19:22 2015] [debug] Rendering template "info.html.ep"
+[Wed May  6 22:19:22 2015] [debug] 200 OK (0.006764s, 147.842/s)
+[Wed May  6 22:19:22 2015] [debug] GET "/css/common"
+[Wed May  6 22:19:22 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:19:22 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:19:22 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:19:22 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:19:22 2015] [debug] 404 Not Found (0.038214s, 26.168/s)
+[Wed May  6 22:19:28 2015] [debug] GET "/some"
+[Wed May  6 22:19:28 2015] [debug] Routing to a callback
+[Wed May  6 22:19:28 2015] [debug] 302 Found (0.001229s, 813.670/s)
+[Wed May  6 22:19:28 2015] [debug] GET "/other"
+[Wed May  6 22:19:28 2015] [debug] Routing to a callback
+[Wed May  6 22:19:28 2015] [debug] 200 OK (0.000665s, 1503.759/s)
+[Wed May  6 22:23:04 2015] [debug] Reading configuration file "/Users/yoichiro/Dropbox/SugarSync/perlPractice/mojo_practice/myApp.conf"
+[Wed May  6 22:23:04 2015] [info] Starting Application
+[Wed May  6 22:23:08 2015] [debug] Your secret passphrase needs to be changed
+[Wed May  6 22:23:08 2015] [debug] GET "/"
+[Wed May  6 22:23:08 2015] [debug] Routing to a callback
+[Wed May  6 22:23:08 2015] [info] Access information
+[Wed May  6 22:23:08 2015] [debug] Rendering template "info.html.ep"
+[Wed May  6 22:23:08 2015] [debug] 200 OK (0.005488s, 182.216/s)
+[Wed May  6 22:23:08 2015] [debug] GET "/css/common"
+[Wed May  6 22:23:08 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:23:08 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:23:08 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:23:08 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:23:08 2015] [debug] 404 Not Found (0.041351s, 24.183/s)
+[Wed May  6 22:23:09 2015] [debug] GET "/"
+[Wed May  6 22:23:09 2015] [debug] Routing to a callback
+[Wed May  6 22:23:09 2015] [info] Access information
+[Wed May  6 22:23:09 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:23:09 2015] [debug] 200 OK (0.001969s, 507.872/s)
+[Wed May  6 22:23:09 2015] [debug] GET "/css/common"
+[Wed May  6 22:23:09 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:23:09 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:23:09 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:23:09 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:23:09 2015] [debug] 404 Not Found (0.016330s, 61.237/s)
+[Wed May  6 22:23:10 2015] [debug] GET "/"
+[Wed May  6 22:23:10 2015] [debug] Routing to a callback
+[Wed May  6 22:23:10 2015] [info] Access information
+[Wed May  6 22:23:10 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:23:10 2015] [debug] 200 OK (0.001963s, 509.424/s)
+[Wed May  6 22:23:10 2015] [debug] GET "/css/common"
+[Wed May  6 22:23:10 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:23:10 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:23:10 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:23:10 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:23:10 2015] [debug] 404 Not Found (0.011821s, 84.595/s)
+[Wed May  6 22:23:14 2015] [debug] GET "/"
+[Wed May  6 22:23:14 2015] [debug] Routing to a callback
+[Wed May  6 22:23:14 2015] [info] Access information
+[Wed May  6 22:23:14 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:23:14 2015] [debug] 200 OK (0.002337s, 427.899/s)
+[Wed May  6 22:23:14 2015] [debug] GET "/css/common"
+[Wed May  6 22:23:14 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:23:14 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:23:14 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:23:14 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:23:14 2015] [debug] 404 Not Found (0.008048s, 124.254/s)
+[Wed May  6 22:23:15 2015] [debug] GET "/"
+[Wed May  6 22:23:15 2015] [debug] Routing to a callback
+[Wed May  6 22:23:15 2015] [info] Access information
+[Wed May  6 22:23:15 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:23:15 2015] [debug] 200 OK (0.001999s, 500.250/s)
+[Wed May  6 22:23:15 2015] [debug] GET "/css/common"
+[Wed May  6 22:23:15 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:23:15 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:23:15 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:23:15 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:23:15 2015] [debug] 404 Not Found (0.011648s, 85.852/s)
+[Wed May  6 22:23:16 2015] [debug] GET "/"
+[Wed May  6 22:23:16 2015] [debug] Routing to a callback
+[Wed May  6 22:23:16 2015] [info] Access information
+[Wed May  6 22:23:16 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:23:16 2015] [debug] 200 OK (0.001771s, 564.653/s)
+[Wed May  6 22:23:16 2015] [debug] GET "/css/common"
+[Wed May  6 22:23:16 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:23:16 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:23:16 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:23:16 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:23:16 2015] [debug] 404 Not Found (0.009182s, 108.909/s)
+[Wed May  6 22:23:42 2015] [debug] Reading configuration file "/Users/yoichiro/Dropbox/SugarSync/perlPractice/mojo_practice/myApp.conf"
+[Wed May  6 22:23:42 2015] [info] Starting Application
+[Wed May  6 22:23:45 2015] [debug] Your secret passphrase needs to be changed
+[Wed May  6 22:23:45 2015] [debug] GET "/"
+[Wed May  6 22:23:45 2015] [debug] Routing to a callback
+[Wed May  6 22:23:45 2015] [info] Access information
+[Wed May  6 22:23:45 2015] [debug] Rendering template "info.html.ep"
+[Wed May  6 22:23:45 2015] [debug] 200 OK (0.005125s, 195.122/s)
+[Wed May  6 22:23:45 2015] [debug] GET "/public/css/common"
+[Wed May  6 22:23:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:23:45 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:23:45 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:23:45 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:23:45 2015] [debug] 404 Not Found (0.036948s, 27.065/s)
+[Wed May  6 22:23:45 2015] [debug] GET "/"
+[Wed May  6 22:23:45 2015] [debug] Routing to a callback
+[Wed May  6 22:23:45 2015] [info] Access information
+[Wed May  6 22:23:45 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:23:45 2015] [debug] 200 OK (0.002016s, 496.032/s)
+[Wed May  6 22:23:45 2015] [debug] GET "/public/css/common"
+[Wed May  6 22:23:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:23:45 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:23:45 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:23:45 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:23:45 2015] [debug] 404 Not Found (0.011702s, 85.455/s)
+[Wed May  6 22:23:45 2015] [debug] GET "/"
+[Wed May  6 22:23:45 2015] [debug] Routing to a callback
+[Wed May  6 22:23:45 2015] [info] Access information
+[Wed May  6 22:23:45 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:23:45 2015] [debug] 200 OK (0.002030s, 492.611/s)
+[Wed May  6 22:23:45 2015] [debug] GET "/public/css/common"
+[Wed May  6 22:23:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:23:45 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:23:45 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:23:45 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:23:45 2015] [debug] 404 Not Found (0.008056s, 124.131/s)
+[Wed May  6 22:24:01 2015] [debug] GET "/"
+[Wed May  6 22:24:01 2015] [debug] Routing to a callback
+[Wed May  6 22:24:01 2015] [info] Access information
+[Wed May  6 22:24:01 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:24:01 2015] [debug] 200 OK (0.002147s, 465.766/s)
+[Wed May  6 22:24:01 2015] [debug] GET "/public/css/common"
+[Wed May  6 22:24:01 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:24:01 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:24:01 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:24:01 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:24:01 2015] [debug] 404 Not Found (0.007996s, 125.063/s)
+[Wed May  6 22:24:02 2015] [debug] GET "/"
+[Wed May  6 22:24:02 2015] [debug] Routing to a callback
+[Wed May  6 22:24:02 2015] [info] Access information
+[Wed May  6 22:24:02 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:24:02 2015] [debug] 200 OK (0.001997s, 500.751/s)
+[Wed May  6 22:24:02 2015] [debug] GET "/public/css/common"
+[Wed May  6 22:24:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:24:02 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:24:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:24:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:24:02 2015] [debug] 404 Not Found (0.007493s, 133.458/s)
+[Wed May  6 22:24:03 2015] [debug] GET "/"
+[Wed May  6 22:24:03 2015] [debug] Routing to a callback
+[Wed May  6 22:24:03 2015] [info] Access information
+[Wed May  6 22:24:03 2015] [debug] Rendering cached template "info.html.ep"
+[Wed May  6 22:24:03 2015] [debug] 200 OK (0.002118s, 472.144/s)
+[Wed May  6 22:24:03 2015] [debug] GET "/public/css/common"
+[Wed May  6 22:24:03 2015] [debug] Template "not_found.development.html.ep" not found
+[Wed May  6 22:24:03 2015] [debug] Template "not_found.html.ep" not found
+[Wed May  6 22:24:03 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Wed May  6 22:24:03 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Wed May  6 22:24:03 2015] [debug] 404 Not Found (0.014630s, 68.353/s)
+[Wed May  6 22:30:59 2015] [debug] Reading configuration file "/Users/yoichiro/Dropbox/SugarSync/perlPractice/mojo_practice/myApp.conf"
+[Wed May  6 22:30:59 2015] [info] Starting Application
+[Wed May  6 22:31:06 2015] [debug] Your secret passphrase needs to be changed
+[Wed May  6 22:31:06 2015] [debug] GET "/"
+[Wed May  6 22:31:06 2015] [debug] Routing to a callback
+[Wed May  6 22:31:06 2015] [info] Access information
+[Wed May  6 22:31:06 2015] [debug] Rendering template "info.html.ep"
+[Wed May  6 22:31:06 2015] [debug] 200 OK (0.004570s, 218.818/s)
+[Thu May  7 00:13:50 2015] [debug] Your secret passphrase needs to be changed
+[Thu May  7 00:13:50 2015] [debug] GET "/"
+[Thu May  7 00:13:50 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu May  7 00:13:50 2015] [debug] Template "not_found.html.ep" not found
+[Thu May  7 00:13:50 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu May  7 00:13:50 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu May  7 00:13:50 2015] [debug] 404 Not Found (0.036869s, 27.123/s)
+[Thu May  7 00:13:59 2015] [debug] GET "/admin"
+[Thu May  7 00:13:59 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu May  7 00:13:59 2015] [debug] Template "not_found.html.ep" not found
+[Thu May  7 00:13:59 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu May  7 00:13:59 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu May  7 00:13:59 2015] [debug] 404 Not Found (0.011096s, 90.123/s)
+[Thu May  7 00:14:07 2015] [debug] GET "/admin/hoge/an"
+[Thu May  7 00:14:07 2015] [debug] Routing to a callback
+[Thu May  7 00:14:07 2015] [debug] 403 Forbidden (0.002070s, 483.092/s)
+[Thu May  7 00:14:55 2015] [debug] GET "/yoichiro/hoge/aaaaa/bbbbb"
+[Thu May  7 00:14:55 2015] [debug] Routing to a callback
+[Thu May  7 00:14:55 2015] [debug] Routing to a callback
+[Thu May  7 00:14:55 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Thu May  7 00:14:55 2015] [debug] 200 OK (0.003834s, 260.824/s)
+[Thu May  7 00:15:04 2015] [debug] GET "/yoichiro/hoge/"
+[Thu May  7 00:15:04 2015] [debug] Routing to a callback
+[Thu May  7 00:15:04 2015] [debug] Routing to a callback
+[Thu May  7 00:15:04 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Thu May  7 00:15:04 2015] [debug] 200 OK (0.002355s, 424.628/s)
+[Sun May 10 14:35:34 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 14:35:34 2015] [debug] GET "/"
+[Sun May 10 14:35:34 2015] [debug] Template "not_found.development.html.ep" not found
+[Sun May 10 14:35:34 2015] [debug] Template "not_found.html.ep" not found
+[Sun May 10 14:35:34 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Sun May 10 14:35:34 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Sun May 10 14:35:34 2015] [debug] 404 Not Found (0.031443s, 31.804/s)
+[Sun May 10 14:35:40 2015] [debug] GET "/person"
+[Sun May 10 14:35:40 2015] [debug] Routing to a callback
+[Sun May 10 14:35:40 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 14:35:40 2015] [error] Global symbol "$url_with" requires explicit package name at template index.html.ep from DATA section line 21, <DATA> line 48.
+16:     <body>
+17:         %= include '/include/header'
+18: 
+19:         Name : <%= $name %><br>
+20:         Age : <%= $age %><br>
+21:         Current URL : <%= $url_with %><br>
+22:         Current URL with some change : <%= url_with->query([name => 'yoichiro']) %>
+23:         %= include '/include/footer';
+24:     </body>
+25: </html>
+
+[Sun May 10 14:35:40 2015] [debug] Template "exception.development.html.ep" not found
+[Sun May 10 14:35:40 2015] [debug] Template "exception.html.ep" not found
+[Sun May 10 14:35:40 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Sun May 10 14:35:40 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Sun May 10 14:35:40 2015] [debug] 500 Internal Server Error (0.032692s, 30.589/s)
+[Sun May 10 14:36:28 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 14:36:28 2015] [debug] GET "/person"
+[Sun May 10 14:36:28 2015] [debug] Routing to a callback
+[Sun May 10 14:36:28 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 14:36:28 2015] [info] Template Helper
+[Sun May 10 14:36:28 2015] [debug] Rendering template "/include/header.html.ep"
+[Sun May 10 14:36:28 2015] [debug] Rendering template "/include/footer.html.ep"
+[Sun May 10 14:36:28 2015] [debug] 200 OK (0.013815s, 72.385/s)
+[Sun May 10 14:39:03 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 14:39:03 2015] [debug] GET "/person"
+[Sun May 10 14:39:03 2015] [debug] Routing to a callback
+[Sun May 10 14:39:03 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 14:39:03 2015] [info] Template Helper
+[Sun May 10 14:39:03 2015] [debug] Rendering template "/include/header.html.ep"
+[Sun May 10 14:39:03 2015] [debug] Rendering template "/include/footer.html.ep"
+[Sun May 10 14:39:03 2015] [debug] 200 OK (0.011820s, 84.602/s)
+[Sun May 10 14:39:06 2015] [debug] GET "/person"
+[Sun May 10 14:39:06 2015] [debug] Routing to a callback
+[Sun May 10 14:39:06 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 14:39:06 2015] [info] Template Helper
+[Sun May 10 14:39:06 2015] [debug] Rendering cached template "/include/header.html.ep"
+[Sun May 10 14:39:06 2015] [debug] Rendering cached template "/include/footer.html.ep"
+[Sun May 10 14:39:06 2015] [debug] 200 OK (0.003740s, 267.380/s)
+[Sun May 10 14:41:18 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 14:41:18 2015] [debug] GET "/person"
+[Sun May 10 14:41:18 2015] [debug] Routing to a callback
+[Sun May 10 14:41:18 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 14:41:18 2015] [info] Template Helper
+[Sun May 10 14:41:18 2015] [debug] Rendering template "/include/header.html.ep"
+[Sun May 10 14:41:18 2015] [debug] Rendering template "/include/footer.html.ep"
+[Sun May 10 14:41:18 2015] [debug] 200 OK (0.010392s, 96.228/s)
+[Sun May 10 14:42:19 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 14:42:19 2015] [debug] GET "/person"
+[Sun May 10 14:42:19 2015] [debug] Routing to a callback
+[Sun May 10 14:42:19 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 14:42:19 2015] [info] Template Helper
+[Sun May 10 14:42:19 2015] [debug] Rendering template "/include/header.html.ep"
+[Sun May 10 14:42:19 2015] [debug] Rendering template "/include/footer.html.ep"
+[Sun May 10 14:42:19 2015] [debug] 200 OK (0.008106s, 123.365/s)
+[Sun May 10 14:42:20 2015] [debug] GET "/person"
+[Sun May 10 14:42:20 2015] [debug] Routing to a callback
+[Sun May 10 14:42:20 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 14:42:20 2015] [info] Template Helper
+[Sun May 10 14:42:20 2015] [debug] Rendering cached template "/include/header.html.ep"
+[Sun May 10 14:42:20 2015] [debug] Rendering cached template "/include/footer.html.ep"
+[Sun May 10 14:42:20 2015] [debug] 200 OK (0.004289s, 233.155/s)
+[Sun May 10 14:46:02 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 14:46:02 2015] [debug] GET "/person"
+[Sun May 10 14:46:02 2015] [debug] Routing to a callback
+[Sun May 10 14:46:02 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 14:46:02 2015] [info] Template Helper
+[Sun May 10 14:46:02 2015] [debug] Rendering template "/include/header.html.ep"
+[Sun May 10 14:46:02 2015] [debug] Rendering template "/include/footer.html.ep"
+[Sun May 10 14:46:02 2015] [debug] 200 OK (0.011411s, 87.635/s)
+[Sun May 10 14:49:22 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 14:49:22 2015] [debug] GET "/person"
+[Sun May 10 14:49:22 2015] [debug] Routing to a callback
+[Sun May 10 14:49:22 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 14:49:22 2015] [info] Template Helper
+[Sun May 10 14:49:22 2015] [debug] Rendering template "/include/header.html.ep"
+[Sun May 10 14:49:22 2015] [debug] Rendering template "/include/footer.html.ep"
+[Sun May 10 14:49:22 2015] [debug] 200 OK (0.009617s, 103.983/s)
+[Sun May 10 14:49:42 2015] [debug] GET "/person"
+[Sun May 10 14:49:42 2015] [debug] Routing to a callback
+[Sun May 10 14:49:42 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 14:49:42 2015] [info] Template Helper
+[Sun May 10 14:49:42 2015] [debug] Rendering cached template "/include/header.html.ep"
+[Sun May 10 14:49:42 2015] [debug] Rendering cached template "/include/footer.html.ep"
+[Sun May 10 14:49:42 2015] [debug] 200 OK (0.006212s, 160.979/s)
+[Sun May 10 15:19:13 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 15:19:13 2015] [debug] GET "/"
+[Sun May 10 15:19:13 2015] [debug] Routing to a callback
+[Sun May 10 15:19:13 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 15:19:13 2015] [debug] 200 OK (0.008241s, 121.344/s)
+[Sun May 10 15:19:27 2015] [debug] POST "/"
+[Sun May 10 15:19:27 2015] [debug] Routing to a callback
+[Sun May 10 15:19:27 2015] [debug] 302 Found (0.001455s, 687.285/s)
+[Sun May 10 15:19:27 2015] [debug] GET "/"
+[Sun May 10 15:19:27 2015] [debug] Routing to a callback
+[Sun May 10 15:19:27 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:19:27 2015] [debug] 200 OK (0.002362s, 423.370/s)
+[Sun May 10 15:19:37 2015] [debug] POST "/"
+[Sun May 10 15:19:37 2015] [debug] Routing to a callback
+[Sun May 10 15:19:37 2015] [debug] 302 Found (0.001647s, 607.165/s)
+[Sun May 10 15:19:37 2015] [debug] GET "/"
+[Sun May 10 15:19:37 2015] [debug] Routing to a callback
+[Sun May 10 15:19:37 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:19:37 2015] [debug] 200 OK (0.001979s, 505.306/s)
+[Sun May 10 15:34:25 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 15:34:25 2015] [debug] GET "/"
+[Sun May 10 15:34:25 2015] [debug] Routing to a callback
+[Sun May 10 15:34:25 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 15:34:25 2015] [debug] 200 OK (0.006713s, 148.965/s)
+[Sun May 10 15:34:34 2015] [debug] POST "/"
+[Sun May 10 15:34:34 2015] [debug] Routing to a callback
+[Sun May 10 15:34:34 2015] [debug] 302 Found (0.001286s, 777.605/s)
+[Sun May 10 15:34:34 2015] [debug] GET "/"
+[Sun May 10 15:34:34 2015] [debug] Routing to a callback
+[Sun May 10 15:34:34 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:34:34 2015] [debug] 200 OK (0.001834s, 545.256/s)
+[Sun May 10 15:35:08 2015] [debug] POST "/"
+[Sun May 10 15:35:08 2015] [debug] Routing to a callback
+[Sun May 10 15:35:08 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 15:35:08 2015] [debug] 200 OK (0.004454s, 224.517/s)
+[Sun May 10 15:36:28 2015] [debug] POST "/"
+[Sun May 10 15:36:28 2015] [debug] Routing to a callback
+[Sun May 10 15:36:28 2015] [debug] 302 Found (0.001486s, 672.948/s)
+[Sun May 10 15:36:28 2015] [debug] GET "/"
+[Sun May 10 15:36:28 2015] [debug] Routing to a callback
+[Sun May 10 15:36:28 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:36:28 2015] [debug] 200 OK (0.001590s, 628.931/s)
+[Sun May 10 15:38:15 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 15:38:15 2015] [debug] GET "/"
+[Sun May 10 15:38:15 2015] [debug] Routing to a callback
+[Sun May 10 15:38:15 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 15:38:15 2015] [debug] 200 OK (0.006323s, 158.153/s)
+[Sun May 10 15:38:21 2015] [debug] GET "/"
+[Sun May 10 15:38:21 2015] [debug] Routing to a callback
+[Sun May 10 15:38:21 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:38:21 2015] [debug] 200 OK (0.003053s, 327.547/s)
+[Sun May 10 15:38:24 2015] [debug] GET "/"
+[Sun May 10 15:38:24 2015] [debug] Routing to a callback
+[Sun May 10 15:38:24 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:38:24 2015] [debug] 200 OK (0.003343s, 299.133/s)
+[Sun May 10 15:38:24 2015] [debug] GET "/"
+[Sun May 10 15:38:24 2015] [debug] Routing to a callback
+[Sun May 10 15:38:24 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:38:24 2015] [debug] 200 OK (0.003263s, 306.466/s)
+[Sun May 10 15:38:24 2015] [debug] GET "/"
+[Sun May 10 15:38:24 2015] [debug] Routing to a callback
+[Sun May 10 15:38:24 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:38:24 2015] [debug] 200 OK (0.002747s, 364.033/s)
+[Sun May 10 15:38:25 2015] [debug] GET "/"
+[Sun May 10 15:38:25 2015] [debug] Routing to a callback
+[Sun May 10 15:38:25 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:38:25 2015] [debug] 200 OK (0.002260s, 442.478/s)
+[Sun May 10 15:38:54 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 15:38:54 2015] [debug] GET "/"
+[Sun May 10 15:38:54 2015] [debug] Routing to a callback
+[Sun May 10 15:38:54 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 15:38:54 2015] [debug] 200 OK (0.005885s, 169.924/s)
+[Sun May 10 15:38:55 2015] [debug] GET "/"
+[Sun May 10 15:38:55 2015] [debug] Routing to a callback
+[Sun May 10 15:38:55 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:38:55 2015] [debug] 200 OK (0.002016s, 496.032/s)
+[Sun May 10 15:39:07 2015] [debug] GET "/"
+[Sun May 10 15:39:07 2015] [debug] Routing to a callback
+[Sun May 10 15:39:07 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:39:07 2015] [debug] 200 OK (0.003301s, 302.939/s)
+[Sun May 10 15:39:11 2015] [debug] GET "/"
+[Sun May 10 15:39:11 2015] [debug] Routing to a callback
+[Sun May 10 15:39:11 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:39:11 2015] [debug] 200 OK (0.002820s, 354.610/s)
+[Sun May 10 15:41:40 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 15:41:40 2015] [debug] GET "/"
+[Sun May 10 15:41:40 2015] [debug] Routing to a callback
+[Sun May 10 15:41:40 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 15:41:40 2015] [debug] 200 OK (0.006140s, 162.866/s)
+[Sun May 10 15:41:45 2015] [debug] GET "/"
+[Sun May 10 15:41:45 2015] [debug] Routing to a callback
+[Sun May 10 15:41:45 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:41:45 2015] [debug] 200 OK (0.002763s, 361.925/s)
+[Sun May 10 15:41:50 2015] [debug] GET "/form"
+[Sun May 10 15:41:50 2015] [debug] Routing to a callback
+[Sun May 10 15:41:50 2015] [debug] 302 Found (0.001497s, 668.003/s)
+[Sun May 10 15:41:50 2015] [debug] GET "/"
+[Sun May 10 15:41:50 2015] [debug] Routing to a callback
+[Sun May 10 15:41:50 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:41:50 2015] [debug] 200 OK (0.001922s, 520.291/s)
+[Sun May 10 15:42:04 2015] [debug] GET "/form"
+[Sun May 10 15:42:04 2015] [debug] Routing to a callback
+[Sun May 10 15:42:04 2015] [debug] 302 Found (0.001944s, 514.403/s)
+[Sun May 10 15:42:04 2015] [debug] GET "/"
+[Sun May 10 15:42:04 2015] [debug] Routing to a callback
+[Sun May 10 15:42:04 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 15:42:04 2015] [debug] 200 OK (0.002135s, 468.384/s)
+[Sun May 10 21:52:11 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 21:52:11 2015] [debug] GET "/"
+[Sun May 10 21:52:11 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 21:52:11 2015] [debug] 200 OK (0.010262s, 97.447/s)
+[Sun May 10 21:53:32 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 21:53:32 2015] [debug] GET "/"
+[Sun May 10 21:53:32 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 21:53:32 2015] [debug] 200 OK (0.004190s, 238.663/s)
+[Sun May 10 21:56:04 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 21:56:04 2015] [debug] GET "/"
+[Sun May 10 21:56:04 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 21:56:04 2015] [debug] 200 OK (0.005182s, 192.976/s)
+[Sun May 10 21:56:11 2015] [debug] GET "/"
+[Sun May 10 21:56:11 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 21:56:11 2015] [debug] 200 OK (0.000997s, 1003.009/s)
+[Sun May 10 21:57:18 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 21:57:18 2015] [debug] GET "/"
+[Sun May 10 21:57:18 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 21:57:18 2015] [debug] 200 OK (0.006592s, 151.699/s)
+[Sun May 10 22:06:37 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 22:06:37 2015] [debug] GET "/"
+[Sun May 10 22:06:37 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 22:06:37 2015] [debug] 200 OK (0.005399s, 185.219/s)
+[Sun May 10 22:06:42 2015] [debug] GET "/"
+[Sun May 10 22:06:42 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 22:06:42 2015] [debug] 200 OK (0.000975s, 1025.641/s)
+[Sun May 10 22:06:53 2015] [debug] GET "/"
+[Sun May 10 22:06:53 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 22:06:53 2015] [debug] 200 OK (0.001072s, 932.836/s)
+[Sun May 10 22:12:05 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 22:12:05 2015] [debug] GET "/"
+[Sun May 10 22:12:05 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 22:12:05 2015] [debug] 200 OK (0.010095s, 99.059/s)
+[Sun May 10 22:12:20 2015] [debug] GET "/"
+[Sun May 10 22:12:20 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 22:12:20 2015] [debug] 200 OK (0.001354s, 738.552/s)
+[Sun May 10 23:08:27 2015] [debug] Your secret passphrase needs to be changed
+[Sun May 10 23:08:27 2015] [debug] GET "/"
+[Sun May 10 23:08:27 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Sun May 10 23:08:27 2015] [debug] 200 OK (0.007747s, 129.082/s)
+[Sun May 10 23:08:27 2015] [debug] GET "/"
+[Sun May 10 23:08:27 2015] [debug] Routing to a callback
+[Sun May 10 23:08:27 2015] [debug] 101 Switching Protocols (0.000792s, 1262.626/s)
+[Sun May 10 23:08:57 2015] [debug] Inactivity timeout
+[Sun May 10 23:09:09 2015] [debug] GET "/"
+[Sun May 10 23:09:09 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 23:09:09 2015] [debug] 200 OK (0.001374s, 727.802/s)
+[Sun May 10 23:09:10 2015] [debug] GET "/"
+[Sun May 10 23:09:10 2015] [debug] Routing to a callback
+[Sun May 10 23:09:10 2015] [debug] 101 Switching Protocols (0.000454s, 2202.643/s)
+[Sun May 10 23:09:32 2015] [debug] GET "/"
+[Sun May 10 23:09:32 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 23:09:32 2015] [debug] 200 OK (0.001045s, 956.938/s)
+[Sun May 10 23:09:32 2015] [debug] GET "/"
+[Sun May 10 23:09:32 2015] [debug] Routing to a callback
+[Sun May 10 23:09:32 2015] [debug] 101 Switching Protocols (0.000696s, 1436.782/s)
+[Sun May 10 23:09:35 2015] [debug] Inactivity timeout
+[Sun May 10 23:09:35 2015] [debug] GET "/"
+[Sun May 10 23:09:35 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Sun May 10 23:09:35 2015] [debug] 200 OK (0.001139s, 877.963/s)
+[Sun May 10 23:09:36 2015] [debug] GET "/"
+[Sun May 10 23:09:36 2015] [debug] Routing to a callback
+[Sun May 10 23:09:36 2015] [debug] 101 Switching Protocols (0.000295s, 3389.831/s)
+[Sun May 10 23:10:02 2015] [debug] Inactivity timeout
+[Sun May 10 23:10:02 2015] [debug] Inactivity timeout
+[Mon May 11 00:20:09 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 00:20:09 2015] [debug] GET "/"
+[Mon May 11 00:20:09 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 00:20:09 2015] [debug] 200 OK (0.007329s, 136.444/s)
+[Mon May 11 00:20:09 2015] [debug] GET "/"
+[Mon May 11 00:20:09 2015] [debug] Routing to a callback
+[Mon May 11 00:20:09 2015] [debug] 101 Switching Protocols (0.000822s, 1216.545/s)
+[Mon May 11 00:20:24 2015] [debug] Inactivity timeout
+[Mon May 11 00:26:43 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 00:26:43 2015] [debug] GET "/"
+[Mon May 11 00:26:43 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 00:26:43 2015] [debug] 200 OK (0.005084s, 196.696/s)
+[Mon May 11 00:27:26 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 00:27:26 2015] [debug] GET "/"
+[Mon May 11 00:27:26 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 00:27:26 2015] [debug] 200 OK (0.005784s, 172.891/s)
+[Mon May 11 00:28:30 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 00:28:30 2015] [debug] GET "/"
+[Mon May 11 00:28:30 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 00:28:30 2015] [debug] 200 OK (0.004692s, 213.129/s)
+[Mon May 11 00:34:28 2015] [debug] GET "/"
+[Mon May 11 00:34:28 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Mon May 11 00:34:28 2015] [debug] 200 OK (0.005715s, 174.978/s)
+[Mon May 11 00:35:52 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 00:35:52 2015] [debug] GET "/"
+[Mon May 11 00:35:52 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 00:35:52 2015] [debug] 200 OK (0.006286s, 159.084/s)
+[Mon May 11 00:35:52 2015] [debug] GET "/"
+[Mon May 11 00:35:52 2015] [debug] Routing to a callback
+[Mon May 11 00:35:52 2015] [debug] 101 Switching Protocols (0.001227s, 814.996/s)
+[Mon May 11 00:36:34 2015] [debug] Inactivity timeout
+[Mon May 11 00:51:15 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 00:51:15 2015] [debug] GET "/"
+[Mon May 11 00:51:15 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 00:51:15 2015] [debug] 200 OK (0.005178s, 193.125/s)
+[Mon May 11 00:51:15 2015] [debug] GET "/"
+[Mon May 11 00:51:15 2015] [debug] Routing to a callback
+[Mon May 11 00:51:15 2015] [debug] 101 Switching Protocols (0.001177s, 849.618/s)
+[Mon May 11 00:51:36 2015] [debug] Inactivity timeout
+[Mon May 11 00:55:38 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 00:55:38 2015] [debug] GET "/"
+[Mon May 11 00:55:38 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 00:55:38 2015] [debug] 200 OK (0.004043s, 247.341/s)
+[Mon May 11 00:55:38 2015] [debug] GET "/"
+[Mon May 11 00:55:38 2015] [debug] Routing to a callback
+[Mon May 11 00:55:38 2015] [debug] 101 Switching Protocols (0.000775s, 1290.323/s)
+[Mon May 11 00:55:40 2015] [debug] GET "/"
+[Mon May 11 00:55:40 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Mon May 11 00:55:40 2015] [debug] 200 OK (0.001076s, 929.368/s)
+[Mon May 11 00:55:40 2015] [debug] GET "/"
+[Mon May 11 00:55:40 2015] [debug] Routing to a callback
+[Mon May 11 00:55:40 2015] [debug] 101 Switching Protocols (0.000710s, 1408.451/s)
+[Mon May 11 00:55:59 2015] [debug] Inactivity timeout
+[Mon May 11 00:57:57 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 00:57:57 2015] [debug] GET "/"
+[Mon May 11 00:57:57 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 00:57:57 2015] [debug] 200 OK (0.007271s, 137.533/s)
+[Mon May 11 00:57:57 2015] [debug] GET "/"
+[Mon May 11 00:57:57 2015] [debug] Routing to a callback
+[Mon May 11 00:57:57 2015] [debug] 101 Switching Protocols (0.001150s, 869.565/s)
+[Mon May 11 00:58:27 2015] [debug] GET "/"
+[Mon May 11 00:58:27 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Mon May 11 00:58:27 2015] [debug] 200 OK (0.001455s, 687.285/s)
+[Mon May 11 00:58:27 2015] [debug] GET "/"
+[Mon May 11 00:58:27 2015] [debug] Routing to a callback
+[Mon May 11 00:58:27 2015] [debug] 101 Switching Protocols (0.001139s, 877.963/s)
+[Mon May 11 00:58:39 2015] [debug] GET "/"
+[Mon May 11 00:58:39 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Mon May 11 00:58:39 2015] [debug] 200 OK (0.001466s, 682.128/s)
+[Mon May 11 00:58:39 2015] [debug] GET "/"
+[Mon May 11 00:58:39 2015] [debug] Routing to a callback
+[Mon May 11 00:58:39 2015] [debug] 101 Switching Protocols (0.000668s, 1497.006/s)
+[Mon May 11 00:58:54 2015] [debug] Inactivity timeout
+[Mon May 11 01:01:32 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 01:01:32 2015] [debug] GET "/"
+[Mon May 11 01:01:32 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 01:01:32 2015] [debug] 200 OK (0.004780s, 209.205/s)
+[Mon May 11 01:01:32 2015] [debug] GET "/"
+[Mon May 11 01:01:32 2015] [debug] Routing to a callback
+[Mon May 11 01:01:32 2015] [debug] 101 Switching Protocols (0.000862s, 1160.093/s)
+[Mon May 11 01:02:03 2015] [debug] Inactivity timeout
+[Mon May 11 21:27:33 2015] [debug] Your secret passphrase needs to be changed
+[Mon May 11 21:27:33 2015] [debug] GET "/"
+[Mon May 11 21:27:33 2015] [debug] Rendering template "index.html.ep" from DATA section
+[Mon May 11 21:27:33 2015] [debug] 200 OK (0.007723s, 129.483/s)
+[Mon May 11 21:27:33 2015] [debug] GET "/"
+[Mon May 11 21:27:33 2015] [debug] Routing to a callback
+[Mon May 11 21:27:33 2015] [debug] 101 Switching Protocols (0.000930s, 1075.269/s)
+[Mon May 11 21:27:42 2015] [debug] GET "/"
+[Mon May 11 21:27:42 2015] [debug] Rendering cached template "index.html.ep" from DATA section
+[Mon May 11 21:27:42 2015] [debug] 200 OK (0.000845s, 1183.432/s)
+[Mon May 11 21:27:43 2015] [debug] GET "/"
+[Mon May 11 21:27:43 2015] [debug] Routing to a callback
+[Mon May 11 21:27:43 2015] [debug] 101 Switching Protocols (0.000483s, 2070.393/s)

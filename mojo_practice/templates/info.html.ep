@@ -1,0 +1,17 @@
+<%
+    my $name = stash('name');
+    my $age = stash('age');
+    my $db_file = stash('db_file');
+%>
+
+<html>
+    <head>
+        <title>Information</title>
+        %= stylesheet '/css/common.css';
+    </head>
+    <body>
+        Name : <%= $name %><br>
+        Age : <%= $age %><br>
+        DBfile : <%= $db_file %><br>
+    </body>
+</html>

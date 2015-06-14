@@ -1,6 +1,24 @@
 #! /bin/perl -w
 # hash.pl
 
+%array = (
+            "Last name"     => "Watanabe",
+            "First name"    => "Yoichiro",
+            "Age"           => "26",    
+         );
+print "key list: \n";
+foreach $key (keys(%array)){
+    print "\t$key\n";    
+}
+
+print "value :";
+foreach $value (values(%array)){
+    print "\t$value\n";    
+}
+
+print "pair :";
+print "\t$key -> $value\n" while (($key, $value) = each(%array));
+
 
 
 

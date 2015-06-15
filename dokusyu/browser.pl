@@ -26,10 +26,15 @@ unless($client_socket){
 }
 
 print "$host $file"."\n";
-print $client_socket "GET $file HTTP/1.0\n\n";
+print $client_socket "HEAD $file HTTP/1.0\n\n";
 
 while($receive = <$client_socket>){
 	print $receive;
+	if($receive =~ /Date/){
+		open(F,">>web_record.txt") || die "cannnot open web_record.txt\n";
+		print F "$url\t$receive";
+	}
+
 }
 
 $client_socket->close();

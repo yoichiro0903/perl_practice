@@ -1,5 +1,5 @@
 package Horse;
-sub speak {
-    print "a Horse goes neigh!\n";
-}
+use Animal;
+our @ISA = qw(Animal);
+sub sound {"neigh!"}
 1;

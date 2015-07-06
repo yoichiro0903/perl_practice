@@ -1,6 +1,6 @@
 package Cow;
-sub speak {
-    print "a Cow goes moooo!\n";        
-}
+use Animal;
+our @ISA = qw(Animal);
+sub sound {"moooo!"}
 
 1;

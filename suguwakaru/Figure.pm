@@ -10,7 +10,7 @@ sub AUTOLOAD {
 	our $AUTOLOAD;
 	warn "you are about to invoke $AUTOLOAD using the argment",
 	join(',', @rest),"\n";
-	return "UNKNOWN";
+	return "UNKNOWN\n";
 }
 
 sub DESTROY {

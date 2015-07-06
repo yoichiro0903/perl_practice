@@ -6,7 +6,7 @@
 
 use RegularTriangleObj;
 
-my $rt = RegularTriangleObj->new;#(1);
+my $rt = RegularTriangleObj->new(1);
 print "side is ", $rt->sides, "\n";
 printf "Triangle is %s and its space is %g \n", $rt, $rt;
 $rt *= 2;

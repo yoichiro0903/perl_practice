@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book type="novel">
+    <title>xml sample</title>
+    <chapter id="introduction" keyword="sample">
+        <title><!-- XML  -->introduction</title>
+    <para>
+        <emphasis>XML</emphasis>
+        (Extensible Markup Language)は汎用マークアップ言語です。
+    </para>
+    <para><!-- 不等号(<;,>;)を表すには&lt;と&gt;を使用 --></para>
+    </chapter>
+</book>

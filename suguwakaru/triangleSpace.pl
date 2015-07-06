@@ -14,13 +14,13 @@ my $c = 5;
 $space = Triangle->space($a, $b, $c);
 print "triangle : $space \n";
 $space = Triangle->inscribedCircleSpace($a, $b, $c);
-print "Triangle's inscribedCircleSpace is $space";
+print "Triangle's inscribedCircleSpace is $space\n";
 
 $a = 6;
 $space = RegularTriangle->space($a);
 print "RegularTriangle : $space \n";
 $space = RegularTriangle->inscribedCircleSpace($a);
-print "RegularTriangle's inscribedCircleSpace is $space";
+print "RegularTriangle's inscribedCircleSpace is $space\n";
 
 
 

@@ -31,6 +31,7 @@ $subSpace = sub  {
 
 sub new {
 	my ($class, $a, $b, $c) = @_;
+    print "\$class -> $class\n";
     unless ($a and $b and $c){
         bless retrieve($file);
     } else {
